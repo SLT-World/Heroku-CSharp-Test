@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace dotnetcore_5_0
+namespace Heroku_CSharp_Test
 {
     public class Startup
     {
